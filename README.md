@@ -17,7 +17,7 @@
 * Learn all about investing
 
 
-<!-- <hr>
+
 
 #### You can also find me on- 
 
