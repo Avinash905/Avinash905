@@ -14,7 +14,7 @@
 
 ### My Hobbies and interests -
 * Playing video games
-* Learn all about investing
+<!-- * Learn all about investing -->
 
 
 
