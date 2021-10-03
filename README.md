@@ -4,9 +4,11 @@
 ### I have interest in -
 * Machine Learning
 * Deep Learning
-* Computer vision 
+* Computer Vision 
 * Natural Language Processing
 * Game Development
+* Web Development
+* 3D Creation
 
 
 <h3 align="left">Languages and Tools:</h3>
