@@ -8,7 +8,7 @@
 * Natural Language Processing
 * Game Development
 * Web Development
-* 3D Creation
+* 3D Animation
 
 
 <h3 align="left">Languages and Tools:</h3>
@@ -16,7 +16,8 @@
 
 ### My Hobbies and interests -
 * Playing video games
-<!-- * Learn all about investing -->
+* Watching movies
+* Listening to music
 
 
 
