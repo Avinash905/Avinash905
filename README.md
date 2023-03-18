@@ -10,8 +10,8 @@
   /></h1>
 
 ### A passionate developer from India <img src="https://img.icons8.com/color/16/india.png" alt="Indian flag"></img>
-<a href="https://dunna-avinash.netlify.app/">https://dunna-avinash.netlify.app/</a>
-
+<a href="https://dunna-avinash.netlify.app/">Portfolio</a>
+<a href="https://dunna-avinash.netlify.app/">Resume</a>
 <br/>
 <h2>Interests:</h2>
 <ul>
