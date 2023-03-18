@@ -13,7 +13,6 @@
 <a href="https://dunna-avinash.netlify.app/">Portfolio</a>
 <br/>
 <a href="https://dunna-avinash.netlify.app/">Resume</a>
-
 <br/>
 <h2>Interests:</h2>
 <ul>
