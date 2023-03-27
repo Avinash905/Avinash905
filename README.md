@@ -14,16 +14,17 @@
 ### About Me
 I'm passionate about Web Development, Data Science, and Game Development and I love using technology to create innovative solutions that solve real-world problems. I have experience working on Web Development and Data Science, and I'm always eager to learn new things.
 
-<a href="https://dunna-avinash.netlify.app/">Portfolio</a>
-<br/>
-<a href="https://dunna-avinash.netlify.app/">Resume</a>
+### Resume
+If you're interested in my professional experience and skills, you can check out my resume here: [https://drive.google.com/file/d/1Hv9GJ6-eVafgI2lwmDJUxfg1Y9_npxUU/view?usp=share_link]
+
+🚀Check out my personal <a href="https://dunna-avinash.netlify.app/">Portfolio</a>
 <br/>
 
 ### My Projects
 On my GitHub, you'll find a variety of projects that showcase my skills and interests. Some of my recent projects include:
 
-[HealthBooker](https://healthbooker.onrender.com/): [This is a webapp where you can book an appointment with a doctor and also apply as a doctor]
-[ZenStore 2](https://zenstore.onrender.com/): [This is an online E-commerce website where you can purchase products]
+[HealthBooker](https://healthbooker.onrender.com/): [This is a webapp where you can book an appointment with a doctor and also apply as a doctor]<br/>
+[ZenStore 2](https://zenstore.onrender.com/): [This is an online E-commerce website where you can purchase products]<br/>
 [Project 3](https://chatterbox-main.onrender.com/): [This is a web application where you can chat with others in real time]
 
 
