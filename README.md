@@ -15,21 +15,20 @@
 I'm passionate about Web Development, Data Science, and Game Development and I love using technology to create innovative solutions that solve real-world problems. I have experience working on Web Development and Data Science, and I'm always eager to learn new things.
 
 ### Resume
-If you're interested in my professional experience and skills, you can check out my resume here: [https://drive.google.com/file/d/1Hv9GJ6-eVafgI2lwmDJUxfg1Y9_npxUU/view?usp=share_link]
-
-🚀Check out my personal <a href="https://dunna-avinash.netlify.app/">Portfolio</a>
+If you're interested in my professional experience and skills, you can check out my resume here: [Resume Link](https://drive.google.com/file/d/1Hv9GJ6-eVafgI2lwmDJUxfg1Y9_npxUU/view?usp=share_link)
+🚀Also check out my personal <a href="https://dunna-avinash.netlify.app/">Portfolio</a>
 <br/>
 
 ### My Projects
 On my GitHub, you'll find a variety of projects that showcase my skills and interests. Some of my recent projects include:
 
-[HealthBooker](https://healthbooker.onrender.com/): [This is a webapp where you can book an appointment with a doctor and also apply as a doctor]<br/>
-[ZenStore 2](https://zenstore.onrender.com/): [This is an online E-commerce website where you can purchase products]<br/>
-[Project 3](https://chatterbox-main.onrender.com/): [This is a web application where you can chat with others in real time]
+[HealthBooker](https://healthbooker.onrender.com/): This is a webapp where you can book an appointment with a doctor and also apply as a doctor<br/>
+[ZenStore 2](https://zenstore.onrender.com/): This is an online E-commerce website where you can purchase products<br/>
+[Project 3](https://chatterbox-main.onrender.com/): This is a web application where you can chat with others in real time
 
 
 ### Get in Touch
-I'm always open to new opportunities and collaborations, so feel free to get in touch with me at [avinash.90527@gmail.com]. Let's build something great together!
+I'm always open to new opportunities and collaborations, so feel free to get in touch with me at [Email](avinash.90527@gmail.com). Let's build something great together!
 
 <h2 align="left">Languages and Tools:</h2>
 <h4>Programming Languages:</h4>
