@@ -4,22 +4,31 @@
     width="30"
   /> Hey! Welcome Nice to see you.
 </h1>
-<h1 align="center">I'm Avinash <img
+<h1 align="center">I'm Dunna Avinash <img
     src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430"
     width="30"
   /></h1>
 
 ### A passionate developer from India <img src="https://img.icons8.com/color/16/india.png" alt="Indian flag"></img>
+
+### About Me
+I'm passionate about Web Development, Data Science, and Game Development and I love using technology to create innovative solutions that solve real-world problems. I have experience working on Web Development and Data Science, and I'm always eager to learn new things.
+
 <a href="https://dunna-avinash.netlify.app/">Portfolio</a>
 <br/>
 <a href="https://dunna-avinash.netlify.app/">Resume</a>
 <br/>
-<h2>Interests:</h2>
-<ul>
-<li>Data Science</li>
-<li>Web Development</li>
-<li>Game Development</li>
-</ul>
+
+### My Projects
+On my GitHub, you'll find a variety of projects that showcase my skills and interests. Some of my recent projects include:
+
+[HealthBooker](https://healthbooker.onrender.com/): [This is a webapp where you can book an appointment with a doctor and also apply as a doctor]
+[ZenStore 2](https://zenstore.onrender.com/): [This is an online E-commerce website where you can purchase products]
+[Project 3](https://chatterbox-main.onrender.com/): [This is a web application where you can chat with others in real time]
+
+
+### Get in Touch
+I'm always open to new opportunities and collaborations, so feel free to get in touch with me at [avinash.90527@gmail.com]. Let's build something great together!
 
 <h2 align="left">Languages and Tools:</h2>
 <h4>Programming Languages:</h4>
