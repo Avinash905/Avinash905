@@ -28,7 +28,7 @@ On my GitHub, you'll find a variety of projects that showcase my skills and inte
 
 
 ### Get in Touch
-I'm always open to new opportunities and collaborations, so feel free to get in touch with me at [Email](avinash.90527@gmail.com). Let's build something great together!
+I'm always open to new opportunities and collaborations, so feel free to get in touch with me at avinash.90527@gmail.com. Let's build something great together!
 
 <h2 align="left">Languages and Tools:</h2>
 <h4>Programming Languages:</h4>
