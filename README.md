@@ -105,7 +105,7 @@ I'm always open to new opportunities and collaborations, so feel free to get in 
 
 <br />
 
-<h3 align="left">Connect with me:</h3>
+<h2 align="left">Connect with me:</h2>
 
 <a href="https://linkedin.com/in/dunna-avinash-a1b326192" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dunna-avinash-a1b326192" height="30" width="40" /></a>
 <a href="https://twitter.com/avinashdunna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="avinashdunna" height="30" width="40" /></a>
