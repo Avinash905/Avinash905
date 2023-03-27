@@ -23,8 +23,8 @@ If you're interested in my professional experience and skills, you can check out
 On my GitHub, you'll find a variety of projects that showcase my skills and interests. Some of my recent projects include:
 
 [HealthBooker](https://healthbooker.onrender.com/): This is a webapp where you can book an appointment with a doctor and also apply as a doctor<br/>
-[ZenStore 2](https://zenstore.onrender.com/): This is an online E-commerce website where you can purchase products<br/>
-[Project 3](https://chatterbox-main.onrender.com/): This is a web application where you can chat with others in real time
+[ZenStore](https://zenstore.onrender.com/): This is an online E-commerce website where you can purchase products<br/>
+[ChatterBox](https://chatterbox-main.onrender.com/): This is a web application where you can chat with others in real time
 
 
 ### Get in Touch
