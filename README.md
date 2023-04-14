@@ -99,7 +99,7 @@ I'm always open to new opportunities and collaborations, so feel free to get in 
 
 <br />
 
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=avinash905&show_icons=true&theme=cobalt&locale=en" alt="avinash905" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=avinash905&show_icons=true&theme=cobalt&locale=en" alt="avinash905" /></p>
 <br />
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=avinash905&theme=default" alt="avinash905" /></p>
 
