@@ -4,33 +4,40 @@
     width="30"
   /> Hey! Welcome Nice to see you.
 </h1>
-<h1 align="center">I'm Dunna Avinash <img
+<h1 align="center" style="color:#9900F0">I'm Dunna Avinash <img
     src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430"
     width="30"
   /></h1>
 
-### A passionate developer from India <img src="https://img.icons8.com/color/16/india.png" alt="Indian flag"></img>
+  <p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Full-stack%20web%20%20developer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=6495ED&vCenter=true&pause=1000&size=22" /></a>
+</p>
 
 ### About Me
+
 I'm passionate about Web Development, Data Science, and Game Development and I love using technology to create innovative solutions that solve real-world problems. I have experience working on Web Development and Data Science, and I'm always eager to learn new things.
 
 ### Resume
+
 If you're interested in my professional experience and skills, you can check out my [Resume](https://drive.google.com/file/d/1Hv9GJ6-eVafgI2lwmDJUxfg1Y9_npxUU/view?usp=share_link)<br/>
 🚀Also check out my personal <a href="https://dunna-avinash.netlify.app/">Portfolio</a>
 <br/>
 
 ### My Projects
+
 On my GitHub, you'll find a variety of projects that showcase my skills and interests. Some of my recent projects include:
 
 [HealthBooker](https://healthbooker.onrender.com/): This is a webapp where you can book an appointment with a doctor and also apply as a doctor<br/>
 [ZenStore](https://zenstore.onrender.com/): This is an online E-commerce website where you can purchase products<br/>
 [ChatterBox](https://chatterbox-main.onrender.com/): This is a web application where you can chat with others in real time
 
-
 ### Get in Touch
+
 I'm always open to new opportunities and collaborations, so feel free to get in touch with me at avinash.90527@gmail.com. Let's build something great together!
 
-<h2 align="left">Languages and Tools:</h2>
+<details> 
+  <summary><h2>🛠️ Languages and Tools</h2></summary>
 <h4>Programming Languages:</h4>
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
 <a href="https://www.python.org" target="_blank">
@@ -91,17 +98,34 @@ I'm always open to new opportunities and collaborations, so feel free to get in 
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a>
 <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
 
+</details>
+
 <br />
 <hr />
 <br />
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=avinash905&show_icons=true&locale=en&layout=compact" alt="avinash905" /></p>
+<details> 
+  <summary><h2>📊 Github Stats and Activity</h2></summary>
 
-<br />
+  <h3>🔥 Streak Stats</h3>
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=avinash905&show_icons=true&theme=cobalt&locale=en" alt="avinash905" /></p>
-<br />
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=avinash905&theme=default" alt="avinash905" /></p>
+  <p>
+      <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Avinash's streak" src="https://streak-stats.demolab.com/?user=avinash905&theme=monokai-metallian&hide_border=true"/>
+  </p>
+
+  <h3>💻 GitHub Profile Stats</h3>
+
+<img alt="Avinash's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=avinash905&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/>
+
+<img alt="Avinash's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=avinash905&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/>
+
+<br/>
+
+<b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+
+<img alt="Avinash's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=avinash905&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
+
+</details>
 
 <br />
 
