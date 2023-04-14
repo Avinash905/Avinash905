@@ -95,7 +95,7 @@ I'm always open to new opportunities and collaborations, so feel free to get in 
 <hr />
 <br />
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=avinash905&show_icons=true&locale=en&layout=compact" alt="avinash905" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=avinash905&show_icons=true&locale=en&layout=compact" alt="avinash905" /></p>
 
 <br />
 
