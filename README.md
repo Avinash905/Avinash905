@@ -4,14 +4,13 @@
     width="30"
   /> Hey! Welcome Nice to see you.
 </h1>
-<h1 align="center" style="color:#9900F0">I'm Dunna Avinash <img
+<h1 align="center" style="color:purple">I'm Dunna Avinash <img
     src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430"
     width="30"
   /></h1>
 
   <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Full-stack%20web%20%20developer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=6495ED&vCenter=true&pause=1000&size=22" /></a>
+    <img src="https://readme-typing-svg.demolab.com/?lines=Full-stack%20web%20%20developer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=6495ED&vCenter=true&pause=1000&size=22" />
 </p>
 
 ### About Me
