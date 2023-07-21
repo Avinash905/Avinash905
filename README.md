@@ -20,7 +20,6 @@ I'm passionate about Web Development, Data Science, and Game Development and I l
 ### Resume
 
 If you're interested in my professional experience and skills, you can check out my [Resume](https://drive.google.com/file/d/1Hv9GJ6-eVafgI2lwmDJUxfg1Y9_npxUU/view?usp=share_link)<br/>
-🚀Also check out my personal <a href="https://dunna-avinash.netlify.app/">Portfolio</a>
 <br/>
 
 ### My Projects
