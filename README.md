@@ -9,9 +9,20 @@
     width="30"
   /></h1>
 
-  <p align="center">
+<p align="center">
     <img src="https://readme-typing-svg.demolab.com/?lines=Full-stack%20web%20%20developer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=6495ED&vCenter=true&pause=1000&size=22" />
 </p>
+
+<br/>
+
+### Visitor's Count:
+
+<a align="center" href="https://profile-counter.glitch.me/{Avinash905}/count.svg">
+  
+  ![VisitorCount](https://profile-counter.glitch.me/{Avinash905}/count.svg)  
+</a>
+
+<br/>
 
 ### About Me
 
@@ -29,9 +40,15 @@ On my GitHub, you'll find a variety of projects that showcase my skills and inte
 [Recipen](https://recipen.vercel.app/): A recipe website where users can discover recipes, and food blogs. Pro users can add their own recipes and food blogs.<br/>
 [HealthBooker](https://healthbooker.onrender.com/): This is a healthcare platform where you can browse doctors, manage profiles, and book appointments.<br/>
 
-### Get in Touch
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="25" height="25" /> Get in Touch
 
-I'm always open to new opportunities and collaborations, so feel free to get in touch with me at avinash.90527@gmail.com. Let's build something great together!
+I'm always open to new opportunities and collaborations, so feel free to get in touch with me. Let's build something great together!
+
+<div align='center'><a href="https://github.com/Avinash905" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a><a href="https://www.linkedin.com/in/dunna-avinash" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="mailto:avinash.90527@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> <a href="https://twitter.com/avinashdunna" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
+<a href="https://discord.com/users/744252684726435941/"><img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white"></a>
+
+</div>
+<br/>
 
 <h2>🛠️ Tools and Technologies</h2>
 
@@ -179,9 +196,3 @@ I'm always open to new opportunities and collaborations, so feel free to get in 
 <img alt="Avinash's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=avinash905&bg_color=1f222e&color=f2d364&line=f85d7f&point=fc9867&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph" />
 
 <br />
-
-<h2 align="left">Connect with me:</h2>
-
-<div align='center'><a href="https://github.com/Avinash905" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a><a href="https://www.linkedin.com/in/dunna-avinash" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="mailto:avinash.90527@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> <a href="https://twitter.com/avinashdunna" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> 
-</div>
-<br/>
