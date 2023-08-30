@@ -130,7 +130,7 @@ I'm always open to new opportunities and collaborations, so feel free to get in 
   </a>
   <a href="https://matplotlib.org/" target="_blank">
     <img
-      src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black&color=e0f0ff"
+      src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&color=afd6fa"
       alt="matplotlib"
     />
   </a>
