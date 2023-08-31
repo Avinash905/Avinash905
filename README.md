@@ -28,9 +28,10 @@
 
 I'm passionate about Web Development, Data Science, and Game Development and I love using technology to create innovative solutions that solve real-world problems. I have experience working on Web Development and I'm always eager to learn new skills.
 
-### Resume
+If you're interested in my professional experience and skills, you can check out my resume.
 
-If you're interested in my professional experience and skills, you can check out my [Resume](https://drive.google.com/file/d/1Hv9GJ6-eVafgI2lwmDJUxfg1Y9_npxUU/view?usp=share_link)<br/>
+[![Resume](https://img.shields.io/badge/Dunna%20Avinash-RESUME-blue?style=for-the-badge&labelColor=1DA1F2&color=5865f2&logoColor=white)](https://drive.google.com/file/d/1SSuiiQVht3sCB81MEdxeJor_3oLsl2Z4/view?usp=drive_link)
+
 <br/>
 
 ### My Projects
