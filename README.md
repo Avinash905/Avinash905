@@ -34,7 +34,7 @@ If you're interested in my professional experience and skills, you can check out
 
 <br/>
 
-### My Projects
+### Recent Projects
 
 On my GitHub, you'll find a variety of projects that showcase my skills and interests. Some of my recent projects include:
 
