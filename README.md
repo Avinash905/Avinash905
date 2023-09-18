@@ -38,8 +38,8 @@ If you're interested in my professional experience and skills, you can check out
 
 On my GitHub, you'll find a variety of projects that showcase my skills and interests. Some of my recent projects include:
 
-[Recipen](https://recipen.vercel.app/): A recipe website where users can discover recipes, and food blogs. Pro users can add their own recipes and food blogs.<br/>
-[HealthBooker](https://healthbooker.onrender.com/): This is a healthcare platform where you can browse doctors, manage profiles, and book appointments.<br/>
+[Recipen](https://github.com/Avinash905/Recipen): A recipe website where users can discover recipes and food blogs. Pro users can add their own recipes and food blogs.<br/>
+[HealthBooker](https://github.com/Avinash905/HealthBooker): This is a healthcare platform where you can browse doctors, manage profiles, and book appointments.<br/>
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="25" height="25" /> Get in Touch
 
