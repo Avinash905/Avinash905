@@ -30,7 +30,7 @@ I'm passionate about Software Development and I love using technology to create 
 
 If you're interested in my professional experience and skills, you can check out my resume.
 
-[![Resume](https://img.shields.io/badge/Dunna%20Avinash-RESUME-blue?style=for-the-badge&labelColor=1DA1F2&color=5865f2&logoColor=white)](https://drive.google.com/file/d/1ggIrjIm6rvnV26GqJiZFitfgZm5mw6P0/view?usp=drive_link)
+[![Resume](https://img.shields.io/badge/Dunna%20Avinash-RESUME-blue?style=for-the-badge&labelColor=1DA1F2&color=5865f2&logoColor=white)](https://drive.google.com/file/d/1ZDQXPGARRFhj-mDqZzM4CIbykWeKAAy4/view)
 
 <br/>
 
